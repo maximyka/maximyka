@@ -26,7 +26,7 @@
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GarGuly2)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/max_programmer_solo)
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-maximyka)
