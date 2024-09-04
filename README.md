@@ -2,7 +2,7 @@
 
 ## About me
 
-##### My name is Max, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python.
+##### My name is Max, I live in Russia, Omsk. Now I'm 18 years old.
 
 
 ### Languages and Tools
