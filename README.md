@@ -14,6 +14,7 @@
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
 ![Godot](https://img.shields.io/badge/-Godot-black?style=for-the-badge&logo=Godot)
+![GDScript](https://img.shields.io/badge/-GDScript-black?style=for-the-badge&logo=GDScript)
 ![VS](https://img.shields.io/badge/-VS-black?style=for-the-badge&logo=visualstudio)
 ![VSCode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=visualstudio)
 ![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
