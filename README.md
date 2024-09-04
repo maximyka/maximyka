@@ -1,16 +1,31 @@
-## Hi there 👋
+# Max
 
-<!--
-**maximyka/maximyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+##### My name is Max, I live in Russia, Omsk. Now I'm 18 years old and my main development stack is Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages and Tools
+![GIT](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
+![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
+![Godot](https://img.shields.io/badge/-Godot-black?style=for-the-badge&logo=Godot)
+![VSCode](https://img.shields.io/badge/-VScode-black?style=for-the-badge&logo=visualstudio)
+![HTML](https://img.shields.io/badge/-Html-black?style=for-the-badge&logo=html)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=for-the-badge&logo=markdown)
+
+
+### Some stats...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maximyka&show_icons=true&theme=slateorange)
+
+
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](https://t.me/GarGuly2)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-maximyka)
