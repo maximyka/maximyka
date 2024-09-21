@@ -11,6 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=C)
 ![Cpp](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++)
+![MASM](https://img.shields.io/badge/-Assembler-black?style=for-the-badge&logo=microsoft)
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=for-the-badge&logo=pycharm)
 ![Godot](https://img.shields.io/badge/-Godot-black?style=for-the-badge&logo=Godot)
