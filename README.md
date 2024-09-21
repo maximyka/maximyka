@@ -1,6 +1,6 @@
 # Max
 
-## I live in Russia, Omsk. Now I'm 18 years old.
+## I live in Russia. Now I'm 18 years old.
 
 
 ### Languages and Tools
